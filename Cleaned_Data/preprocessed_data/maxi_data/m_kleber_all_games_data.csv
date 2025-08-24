@@ -1,0 +1,56 @@
+Time,player_name,Series Game,Score,quarter,basket_type,short_type,short_range,misses/count,player_team,Assist,Assist_by,Time_dumy
+4:12.0,M.Kleber,1,10-22,1.0,3-pt,jump,24,makes,Dallas, assist,Doncic ,2022-06-03 04:12:00
+3:08.0,M.Kleber,1,15-26,1.0,3-pt,jump,25,makes,Dallas, assist,Doncic ,2022-06-03 03:08:00
+1:33.0,M.Kleber,1,21-31,1.0,3-pt,jump,23,makes,Dallas, assist,Dinwiddie ,2022-06-03 01:33:00
+11:19.0,M.Kleber,1,28-37,2.0,3-pt,jump,27,makes,Dallas, assist,Dinwiddie ,2022-06-03 11:19:00
+10:12.0,M.Kleber,1,31-40,2.0,3-pt,jump,28,misses,Dallas,,,2022-06-03 10:12:00
+7:54.0,M.Kleber,1,38-47,2.0,3-pt,jump,24,makes,Dallas, assist,Dinwiddie ,2022-06-03 07:54:00
+3:40.0,M.Kleber,1,48-55,2.0,free,throw,2,misses,Dallas,,,2022-06-03 03:40:00
+3:40.0,M.Kleber,1,48-55,2.0,free,throw,2,makes,Dallas,,,2022-06-03 03:40:00
+6:34.0,M.Kleber,1,72-82,3.0,free,throw,2,misses,Dallas,,,2022-06-03 06:34:00
+6:34.0,M.Kleber,1,73-82,3.0,free,throw,2,makes,Dallas,,,2022-06-03 06:34:00
+4:25.0,M.Kleber,1,75-87,3.0,3-pt,jump,23,misses,Dallas,,,2022-06-03 04:25:00
+0:30.0,M.Kleber,1,79-96,3.0,3-pt,jump,29,misses,Dallas,,,2022-06-03 00:30:00
+11:28.0,M.Kleber,1,81-98,4.0,free,throw,1,misses,Dallas,,,2022-06-03 11:28:00
+11:28.0,M.Kleber,1,81-98,4.0,2-pt,dunk,3,makes,Dallas,assist,Doncic ,2022-06-03 11:28:00
+5:49.0,M.Kleber,2,11-19,1.0,2-pt,layup,2,makes,Dallas,assist,Doncic ,2022-06-03 05:49:00
+2:05.0,M.Kleber,2,21-28,1.0,3-pt,jump,26,misses,Dallas,,,2022-06-03 02:05:00
+0:37.0,M.Kleber,2,26-30,1.0,2-pt,dunk,1,makes,Dallas,assist,Bertans ,2022-06-03 00:37:00
+3:15.0,M.Kleber,2,50-47,2.0,free,throw,2,makes,Dallas,,,2022-06-03 03:15:00
+3:15.0,M.Kleber,2,51-47,2.0,free,throw,2,makes,Dallas,,,2022-06-03 03:15:00
+7:29.0,M.Kleber,2,66-70,3.0,3-pt,jump,23,misses,Dallas,,,2022-06-03 07:29:00
+4:58.0,M.Kleber,2,72-76,3.0,free,throw,1,makes,Dallas,,,2022-06-03 04:58:00
+4:18.0,M.Kleber,2,72-76,3.0,3-pt,jump,26,misses,Dallas,,,2022-06-03 04:18:00
+2:18.0,M.Kleber,2,80-82,3.0,2-pt,jump,16,makes,Dallas, assist,Dinwiddie ,2022-06-03 02:18:00
+5:40.0,M.Kleber,3,13-15,1.0,3-pt,jump,26,makes,Dallas, assist,Doncic ,2022-06-03 05:40:00
+3:28.0,M.Kleber,3,15-22,1.0,2-pt,dunk,1,makes,Dallas,assist,Dinwiddie ,2022-06-03 03:28:00
+4:28.0,M.Kleber,3,32-43,2.0,2-pt,layup,1,makes,Dallas,assist,Doncic ,2022-06-03 04:28:00
+6:00.0,M.Kleber,3,53-71,3.0,2-pt,jump,18,makes,Dallas, assist,Brunson ,2022-06-03 06:00:00
+5:23.0,M.Kleber,3,55-71,3.0,2-pt,jump,10,misses,Dallas,,,2022-06-03 05:23:00
+3:57.0,M.Kleber,3,58-71,3.0,3-pt,jump,25,misses,Dallas,,,2022-06-03 03:57:00
+1:49.0,M.Kleber,3,63-80,3.0,3-pt,jump,25,makes,Dallas, assist,Dinwiddie ,2022-06-03 01:49:00
+7:05.0,M.Kleber,3,78-92,4.0,2-pt,layup,1,makes,Dallas,assist,Brunson ,2022-06-03 07:05:00
+5:53.0,M.Kleber,3,80-92,4.0,3-pt,jump,25,misses,Dallas,,,2022-06-03 05:53:00
+6:57.0,M.Kleber,4,11-19,1.0,3-pt,jump,23,makes,Dallas, assist,Brunson ,2022-06-03 06:57:00
+3:41.0,M.Kleber,4,15-26,1.0,3-pt,jump,25,misses,Dallas,,,2022-06-03 03:41:00
+2:49.0,M.Kleber,4,50-59,2.0,2-pt,layup,1,makes,Dallas,assist,Doncic ,2022-06-03 02:49:00
+1:38.0,M.Kleber,4,52-62,2.0,free,throw,2,makes,Dallas,,,2022-06-03 01:38:00
+1:38.0,M.Kleber,4,52-63,2.0,free,throw,2,makes,Dallas,,,2022-06-03 01:38:00
+8:26.0,M.Kleber,4,63-68,3.0,3-pt,jump,28,misses,Dallas,,,2022-06-03 08:26:00
+7:44.0,M.Kleber,4,63-72,3.0,2-pt,layup,2,makes,Dallas,,,2022-06-03 07:44:00
+3:16.0,M.Kleber,4,74-82,3.0,2-pt,jump,12,misses,Dallas,,,2022-06-03 03:16:00
+1:08.0,M.Kleber,4,97-111,4.0,2-pt,dunk,1,makes,Dallas,assist,Doncic ,2022-06-03 01:08:00
+3:35.0,M.Kleber,5,24-16,1.0,3-pt,jump,26,makes,Dallas, assist,Doncic ,2022-06-03 03:35:00
+6:28.0,M.Kleber,5,38-34,2.0,3-pt,jump,26,misses,Dallas,,,2022-06-03 06:28:00
+5:08.0,M.Kleber,5,40-36,2.0,3-pt,jump,31,misses,Dallas,,,2022-06-03 05:08:00
+1:29.0,M.Kleber,5,45-47,2.0,2-pt,hook,6,misses,Dallas,,,2022-06-03 01:29:00
+1:01.0,M.Kleber,5,46-47,2.0,free,throw,2,misses,Dallas,,,2022-06-03 01:01:00
+1:01.0,M.Kleber,5,46-47,2.0,free,throw,2,makes,Dallas,,,2022-06-03 01:01:00
+8:21.0,M.Kleber,5,50-61,3.0,3-pt,jump,28,misses,Dallas,,,2022-06-03 08:21:00
+7:55.0,M.Kleber,6,10-8,1.0,3-pt,jump,25,misses,Dallas,,,2022-06-03 07:55:00
+5:45.0,M.Kleber,6,17-15,1.0,3-pt,jump,25,makes,Dallas, assist,Doncic ,2022-06-03 05:45:00
+0:37.0,M.Kleber,6,43-57,2.0,3-pt,jump,25,makes,Dallas, assist,Doncic ,2022-06-03 00:37:00
+4:13.0,M.Kleber,6,59-80,3.0,3-pt,jump,26,makes,Dallas, assist,Brunson ,2022-06-03 04:13:00
+8:05.0,M.Kleber,6,76-96,4.0,2-pt,jump,14,misses,Dallas,,,2022-06-03 08:05:00
+7:31.0,M.Kleber,6,79-96,4.0,3-pt,jump,26,misses,Dallas,,,2022-06-03 07:31:00
+5:58.0,M.Kleber,7,13-5,1.0,3-pt,jump,28,makes,Dallas, assist,Doncic ,2022-06-03 05:58:00
